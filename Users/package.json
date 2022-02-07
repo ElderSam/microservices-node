@@ -1,0 +1,9 @@
+{
+  "name": "users_microservice",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ."
+  }
+}
