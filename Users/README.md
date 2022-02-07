@@ -1,12 +1,8 @@
 # Users microservice
 
 ## config
-1. To start a project;
-``yarn init -y``
+1. install dependencies
+``yarn install``
 
-2. Add dependencies
-``yarn add express mongoose axios``
-``yarn add nodemon -D``
-
-3. run
+2. run
 ``yarn dev``
