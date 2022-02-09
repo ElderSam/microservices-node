@@ -9,6 +9,14 @@
 
 ----------------------
 
+## Users - tests to be done
+[] GET all users
+[] GET user
+[] Create new user
+[] DEL user by userId
+
+----------------------
+
 ## Tests with Jest
 https://jestjs.io/
 Node.js unit tests, mocks, coverage, etc.
